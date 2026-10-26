@@ -1,7 +1,7 @@
 # Mars Cosmetics — Order & Inventory Sync Service
 ### Design Document | October 2026
 
-**Author:** [Your Name]  
+**Author:** Mohammad Sahil  
 **Stack:** Node.js (NestJS), PostgreSQL, Redis, AWS  
 **Team:** 3 engineers | **Timeline:** 6 weeks
 
